@@ -1,3 +1,5 @@
+package DataStructure;
+
 import java.util.Comparator;
 
 public class MergeSort {
