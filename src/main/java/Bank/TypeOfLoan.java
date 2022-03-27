@@ -1,0 +1,3 @@
+package Bank;
+
+public enum TypeOfLoan {HOMELOAN, CONSUMERVEHICLELOAN, EDUCATIONLOAN}
